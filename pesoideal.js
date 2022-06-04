@@ -13,6 +13,6 @@ function calcularIMC() {
     alert("O seu peso ideal é: " + pesoArredondado + "Kg") 
   } 
   else { 
-    alert("ERROR!!! Try Again.") 
+    alert("ERRO! Try Again.") 
   } 
 }
